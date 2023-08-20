@@ -1,4 +1,4 @@
-<h1>Using Linux commands to manage file-permissions</h1>
+<h1>Using Linux commands to manage file permissions</h1>
 
 
 <h2>Description</h2>
