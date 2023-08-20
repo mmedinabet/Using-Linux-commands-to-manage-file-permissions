@@ -9,6 +9,8 @@ The research team at my organization needs to update the file permissions for ce
 <h2>Check file and directory details</h2>
 The following code demonstrates how I used Linux commands to determine the existing permissions set for a specific directory in the file system.
 
+![Screenshot 2023-08-20 6 05 56 PM](https://github.com/mmedinabet/mmedinabet/assets/142737434/3d7cc316-b4ee-4293-831c-f7211b253572)
+
 
 
 The first line of the screenshot displays the command I entered, and the other lines display the output. The code lists all contents of the projects directory. I used the ls command with the -la option to display a detailed listing of the file contents that also returned hidden files. The output of my command indicates that there is one directory named drafts, one hidden file named .project_x.txt, and five other project files. The 10-character string in the first column represents the permissions set on each file or directory.
