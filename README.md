@@ -58,11 +58,3 @@ In this project, I utilized Linux commands to manage file permissions within the
 
 
 
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
