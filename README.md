@@ -53,8 +53,7 @@ The subsequent code illustrates the manner in which I employed Linux commands to
 The initial two lines within the screenshot exhibit the commands I inputted, while the subsequent lines present the output stemming from the second command. I had previously identified that the group possessed execute permissions, prompting me to utilize the chmod command to revoke them. Since the researcher2 user was already endowed with execute permissions, no further action was necessary in that regard.
 
 <h2> Summary</h2> 
-I changed numerous permissions to align with the authorization level sought by the organization for files and directories within the projects directory. This process began with using "ls -la" to inspect the directory's permissions, which then guided my subsequent actions. I subsequently employed the chmod command on multiple occasions to modify permissions for both files and directories.
-
+In this project, I utilized Linux commands to manage file permissions within the projects directory to enhance system security. Initially, I checked the existing permissions using "ls -la" to identify the authorization levels for files and directories. Then, I explained the permissions string, detailing user, group, and other access rights. Following this, I changed permissions as required, such as revoking write access for other users on specific files and modifying permissions on hidden files. Additionally, I adjusted directory permissions to restrict execution privileges to designated users. Overall, by employing commands like chmod and ls, I successfully aligned file and directory permissions with the organization's security requirements, ensuring appropriate access levels.
 </p>
 
 
